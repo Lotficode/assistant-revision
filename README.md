@@ -1,5 +1,7 @@
 # 📚 Assistant de révision
 
+**▶️ Application en ligne : https://assistant-revision-lotfi.streamlit.app**
+
 Application web qui transforme des notes de cours en PDF en outil de révision :
 elle en génère un résumé, crée un quiz à choix multiples, corrige les réponses
 et suit la progression dans le temps.
